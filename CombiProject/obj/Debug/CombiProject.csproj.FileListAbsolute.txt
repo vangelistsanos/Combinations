@@ -1,0 +1,5 @@
+c:\users\vangelis\documents\visual studio 2015\Projects\CombiProject\CombiProject\bin\Debug\CombiProject.exe.config
+C:\Users\vangelis\documents\visual studio 2015\Projects\CombiProject\CombiProject\bin\Debug\CombiProject.exe
+C:\Users\vangelis\documents\visual studio 2015\Projects\CombiProject\CombiProject\bin\Debug\CombiProject.pdb
+C:\Users\vangelis\documents\visual studio 2015\Projects\CombiProject\CombiProject\obj\Debug\CombiProject.exe
+C:\Users\vangelis\documents\visual studio 2015\Projects\CombiProject\CombiProject\obj\Debug\CombiProject.pdb
